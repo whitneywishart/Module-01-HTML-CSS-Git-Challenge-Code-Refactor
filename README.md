@@ -19,5 +19,5 @@ Practice modifying existing code to align with accesibility best practices and t
 <br />
 
 ## Screenshot
-<img src="./Develop/assets/images/index_screenshot.png" width="600">
+<img src="./assets/images/index_screenshot.png" width="600">
 
