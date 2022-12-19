@@ -18,5 +18,5 @@ https://whitneywishart.github.io/module-01-html-css-git-challenge-code-refactor/
 <br />
 
 ## Screenshot
-<img src="./assets/images/index_screenshot.png" width="600">
+<img src="./images/index_screenshot.png" width="600">
 
